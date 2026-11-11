@@ -8,7 +8,6 @@ To develop a simple webserver to serve html pages and display the list of protoc
 ## DESIGN STEPS:
 ### Step 1: 
 HTML content creation.
-
 ### Step 2:
 Design of webserver workflow.
 
@@ -539,8 +538,8 @@ async function startTransmission() {
 ~~~
 
 ## OUTPUT:
-![alt text](<Screenshot 2026-11-10 085417.png>)
 ![alt text](<Screenshot 2026-11-10 085451.png>)
+![alt text](<Screenshot 2026-11-10 085417.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
